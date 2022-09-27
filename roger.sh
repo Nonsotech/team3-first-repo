@@ -1,5 +1,5 @@
 #!/bin/bash
-#author enginer roger
+#author enginer nonso
 #this script is to perform a system analysis
 echo "welcome to Etech Consulting Devops Masterclass"
 sudo apt update -y
